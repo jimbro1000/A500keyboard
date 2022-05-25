@@ -8,6 +8,8 @@
 *.kicad_pcb-bak
 *.sch-bak
 *~
+kicad/A500HIDpico-backups/*
+
 _autosave-*
 *.tmp
 *-save.pro
